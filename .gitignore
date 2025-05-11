@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# OS/エディタ
+.DS_Store
+.vscode/
+Thumbs.db
+
+# その他
+*.log
